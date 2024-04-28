@@ -10,7 +10,6 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-https://hy2sub.pages.dev
 https://notls.tchonor.dns.army/cfdingyue
 https://3k.fxxk.dedyn.io/sub
 https://subs.zeabur.app/clash
